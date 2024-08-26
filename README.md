@@ -3,7 +3,12 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
+**Javascript**
+Variáveis:
+1. **Var:** Pode ser redeclarada e alterada, independente do bloco de códigos;
+2. **Let:** Pode ter seu valor alterado contanto que esteja no mesmo bloco de códigos;
+3. **Const:** Cria uma constante com valor fixo, não podendo se alterar.   
+
 
 
 
