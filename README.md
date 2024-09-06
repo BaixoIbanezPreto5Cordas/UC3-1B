@@ -34,6 +34,20 @@ Ex: ```console.log('Oi' + ' ' + 'ser' + ' ' + 'humano' + ' ' + ':P')```
 3. **NULL:** valor vazio;
 4. **Undefined:** valor não definido.
 
+### **Array e Concatenar:**
+O Array é uma forma de criar uma lista de elementos usando uma variável específica. Dentro dessa lista, é possível saber a **localização** de um certo elemento, **concatenar** duas listas diferentes, **remover** um elemento solicitado, colocar em **ordem alfabética** e **contar o total de elementos** incluidos na lista, **divide** a lista, **concatena** as listas, dessa forma (respectivamente):
+
+Ex: ```const Saboresjujuba = ["morango", "laranja", "limão", "uva", "abacaxi"];```
+
+1. **Consulta por index e mostra o nome do elemento:** ```console.log(Saboresjujuba[0])```
+2. **Consulta por nome e mostra o index:** ```const localizacao = Saboresjujuba.indexOf("laranja);        console.log(localizacao)```
+3. **Remove o último elemento e mostra o elemento removido:** ```console.log(Saboresjujuba.pop());```
+5. **Adiciona elementos no final e mostra a quantidade de elementos:** ```console.log(Saboresjujuba.push("amora"));```
+6. **Coloca em ordem alfabética:** ```console.log(Saboresjujuba.sort());```
+7. **Conta os elementos:** ```console.log(Saboresjujuba.length);```
+8. **Divide o Array em 2:** Utilizando primeiro o contador de elementos (.length);  ```const sacoJujuba1 = Saboresjujuba.slice(0, tamanhoJujubas /2);         constsacoJujuba2 =  Saboresjujuba.slice(tamanhoJujubas/2);```
+9. **Concatenando Arrays:** ```const juntarSacosjujuba = sacoJujuba1.concat(sacoJujuba2);      console.log(juntarSacosjujuba)```
+
 ### **Operadores:**
 
 **Comparativos:**
@@ -56,8 +70,8 @@ Ex: ```console.log('Oi' + ' ' + 'ser' + ' ' + 'humano' + ' ' + ':P')```
 6. ```**``` , potência.
 
 
+
 ## Atividades desenvolvidas
 
 [Aula 1](https://codepen.io/ed-the-scripter/pen/NWZgvJZ?editors=0012)
 [Aula 2](https://codepen.io/ed-the-scripter/pen/PorENGO)
-
