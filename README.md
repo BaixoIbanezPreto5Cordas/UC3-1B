@@ -7,9 +7,9 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## **Javascript, básicos de sintaxe**
 
 ### **Variáveis:**
-1. **Var:** Pode ser redeclarada e alterada, independente do bloco de códigos, modo mais antigo de declarar;
-2. **Let:** Pode ter seu valor alterado contanto que esteja no mesmo bloco de códigos;
-3. **Const:** Cria uma constante com valor fixo, não podendo se alterar.
+> 1. **Var:** Pode ser redeclarada e alterada, independente do bloco de códigos, modo mais antigo de declarar;
+> 2. **Let:** Pode ter seu valor alterado contanto que esteja no mesmo bloco de códigos;
+> 3. **Const:** Cria uma constante com valor fixo, não podendo se alterar.
 
 Ex: ```var abc = 'xyz'```
     ```console.log(abc)```
