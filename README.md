@@ -22,8 +22,8 @@ Ex:
 ```const subtracao = (a - b)```
 
 ### **String:**
-Strings guardam informações em formas de texto, e há comandos para checar uma posição em uma lista (```indexOf```), e tamanho (```.length```), que são frquentemente usados.
-Existe, também, a opção de **concatenar** strings, somando elas umas as outras para formar uma frase.
+> Strings guardam informações em formas de texto, e há comandos para checar uma posição em uma lista (```indexOf```), e tamanho (```.length```), que são frquentemente usados.
+> Existe, também, a opção de **concatenar** strings, somando elas umas as outras para formar uma frase.
 
 Ex: ```console.log('Oi' + ' ' + 'ser' + ' ' + 'humano' + ' ' + ':P')```
 
@@ -39,35 +39,35 @@ O Array é uma forma de criar uma lista de elementos usando uma variável espec�
 
 Ex: ```const Saboresjujuba = ["morango", "laranja", "limão", "uva", "abacaxi"];```
 
-1. **Consulta por index e mostra o nome do elemento:** ```console.log(Saboresjujuba[0])```
-2. **Consulta por nome e mostra o index:** ```const localizacao = Saboresjujuba.indexOf("laranja);        console.log(localizacao)```
-3. **Remove o último elemento e mostra o elemento removido:** ```console.log(Saboresjujuba.pop());```
-5. **Adiciona elementos no final e mostra a quantidade de elementos:** ```console.log(Saboresjujuba.push("amora"));```
-6. **Coloca em ordem alfabética:** ```console.log(Saboresjujuba.sort());```
-7. **Conta os elementos:** ```console.log(Saboresjujuba.length);```
-8. **Divide o Array em 2:** Utilizando primeiro o contador de elementos (.length);  ```const sacoJujuba1 = Saboresjujuba.slice(0, tamanhoJujubas /2);         constsacoJujuba2 =  Saboresjujuba.slice(tamanhoJujubas/2);```
-9. **Concatenando Arrays:** ```const juntarSacosjujuba = sacoJujuba1.concat(sacoJujuba2);      console.log(juntarSacosjujuba)```
+> 1. **Consulta por index e mostra o nome do elemento:** ```console.log(Saboresjujuba[0])```
+> 2. **Consulta por nome e mostra o index:** ```const localizacao = Saboresjujuba.indexOf("laranja");        console.log(localizacao)```
+> 3. **Remove o último elemento e mostra o elemento removido:** ```console.log(Saboresjujuba.pop());```
+> 5. **Adiciona elementos no final e mostra a quantidade de elementos:** ```console.log(Saboresjujuba.push("amora"));```
+> 6. **Coloca em ordem alfabética:** ```console.log(Saboresjujuba.sort());```
+> 7. **Conta os elementos:** ```console.log(Saboresjujuba.length);```
+> 8. **Divide o Array em 2:** Utilizando primeiro o contador de elementos (.length);  ```const sacoJujuba1 = Saboresjujuba.slice(0, tamanhoJujubas /2);         constsacoJujuba2 =  Saboresjujuba.slice(tamanhoJujubas/2);```
+> 9. **Concatenando Arrays:** ```const juntarSacosjujuba = sacoJujuba1.concat(sacoJujuba2);      console.log(juntarSacosjujuba)```
 
 ### **Operadores:**
 
 **Comparativos:**
-1. ```==``` , igual;
-2. ```===``` , igual;
-3. ```>``` , maior que;
-4. ```<```'' , menor que;
-5. ```>=``` , menor igual a;
-6. ```<=``` , maior igual a;
-7. ```!==``` , diferente;
-8. ```!=``` , diferente.
+> 1. ```==``` , igual;
+> 2. ```===``` , igual;
+> 3. ```>``` , maior que;
+> 4. ```<```'' , menor que;
+> 5. ```>=``` , menor igual a;
+> 6. ```<=``` , maior igual a;
+> 7. ```!==``` , diferente;
+> 8. ```!=``` , diferente.
 
 
 **Matemáticos**
-1. ```+``` , mais;
-2. ```-``` , menos;
-3. ```*``` , multiplicar;
-4. ```/``` , divisão;
-5. ```%``` , módulo;
-6. ```**``` , potência.
+> 1. ```+``` , mais;
+> 2. ```-``` , menos;
+> 3. ```*``` , multiplicar;
+> 4. ```/``` , divisão;
+> 5. ```%``` , módulo;
+> 6. ```**``` , potência.
 
 
 
