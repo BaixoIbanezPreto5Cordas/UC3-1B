@@ -29,10 +29,10 @@ Ex: ```console.log('Oi' + ' ' + 'ser' + ' ' + 'humano' + ' ' + ':P')```
 
 ### **Tipos primitivos de dados:**
 
-1. **BOOLEAN:** true/false;
-2. **Number:** valores numéricos, podendo ser inteiro ou decimal;
-3. **NULL:** valor vazio;
-4. **Undefined:** valor não definido.
+> 1. **BOOLEAN:** true/false;
+> 2. **Number:** valores numéricos, podendo ser inteiro ou decimal;
+> 3. **NULL:** valor vazio;
+> 4. **Undefined:** valor não definido.
 
 ### **Array e Concatenar:**
 O Array é uma forma de criar uma lista de elementos usando uma variável específica. Dentro dessa lista, é possível saber a **localização** de um certo elemento, **concatenar** duas listas diferentes, **remover** um elemento solicitado, colocar em **ordem alfabética** e **contar o total de elementos** incluidos na lista, **divide** a lista, **concatena** as listas, dessa forma (respectivamente):
@@ -73,5 +73,6 @@ Ex: ```const Saboresjujuba = ["morango", "laranja", "limão", "uva", "abacaxi"];
 
 ## Atividades desenvolvidas
 
-[Aula 1](https://codepen.io/ed-the-scripter/pen/NWZgvJZ?editors=0012)
-[Aula 2](https://codepen.io/ed-the-scripter/pen/PorENGO)
+[Aula 1](https://codepen.io/ed-the-scripter/pen/NWZgvJZ?editors=0012),
+[Aula 2](https://codepen.io/ed-the-scripter/pen/PorENGO),
+[Aula 3](https://codepen.io/ed-the-scripter/pen/yLdQEQy)
