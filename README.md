@@ -37,6 +37,14 @@ Ex: ```console.log('Oi' + ' ' + 'ser' + ' ' + 'humano')```;
 > 3. **NULL:** valor vazio;
 > 4. **Undefined:** valor não definido.
 
+### **Boolean:** 
+> O boolean serve de uma forma parecida com o Switch Case e If else (que veremos mais adiante), respondendo true ou false dependendo do que foi inserido.
+
+Sintaxe: ```if (condicao booleana) {
+             console.log("true");
+             } else {
+             console.log("false");```
+}
 ### **If/else:**
 > É uma função que serve para responder de acordo com um parâmetro, por exemplo, se o resultado for maior ou igual a 3, o console vai responder "correto", se for menor do que 3, o console pode dizer "incorreto" e assim por diante.
 >
