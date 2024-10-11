@@ -45,7 +45,7 @@ Sintaxe: ```if (exemplo1 > exemplo2) {
 } else if (exemplo1 < exemplo2) {
   console.log(subtrair(exemplo1, exemplo2))
 } else {
-  console.log("deu não")
+  console.log("blank")
 }
 ### **Array e Concatenar:**
 O Array é uma forma de criar uma lista de elementos usando uma variável específica. Dentro dessa lista, é possível saber a **localização** de um certo elemento, **concatenar** duas listas diferentes, **remover** um elemento solicitado, colocar em **ordem alfabética** e **contar o total de elementos** incluidos na lista, **divide** a lista, **concatena** as listas, dessa forma (respectivamente):
